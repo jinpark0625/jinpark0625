@@ -6,7 +6,7 @@
   Front-end Developer from 🇰🇷 Seoul, Korea, currently living in 🇨🇦 Toronto, Canada.
   </p>
   <p>
-  I love turning my ideas into a reality with code.
+  I love turning my ideas into reality with code.
   </p>
 </br>
 <h4>
