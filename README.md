@@ -14,13 +14,13 @@
 </h4>
 <ul>
 <li>
+<a href="https://github.com/jinpark0625/dynamic-list-manger">Dynamic-List-Manager</a> : TypeScript-based tool for adding and deleting images, videos, notes, and to-do lists.
+</li>
+<li>
 <a href="https://www.notion.so/c918154a40a44d6bb114096955c998b9">Our League</a> : Our Leaguer is the app to manage your soccer team like a pro: organize your events, send invitations, and much more.
 </li>
 <li>
 <a href="http://goodcafeteria.s3-website.ap-northeast-2.amazonaws.com/">Good Cafeteria</a> : Good Cafeteria helps to find local caterias quickly and easily.
-</li>
-<li>
-<a href="https://github.com/jinpark0625/css_collection">Css_collection</a> : A collection of layouts and patterns made with CSS, Js, Three.js, and so on.
 </li>
 </ul>
 </br>
