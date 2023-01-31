@@ -13,6 +13,10 @@
 💻 Side Project
 </h4>
 <ul>
+   <li>
+<a href="https://github.com/jinpark0625/react_shop">React-Shop</a> : 
+   An e-commerce website built with React.js, Firebase, Cloudinary, react-query, and tailwind-css as a practice project.
+</li>
 <li>
 <a href="https://github.com/jinpark0625/dynamic-list-manger">Dynamic-List-Manager</a> : TypeScript-based tool for adding and deleting images, videos, notes, and to-do lists.
 </li>
