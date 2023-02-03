@@ -21,9 +21,6 @@
 <a href="https://github.com/jinpark0625/dynamic-list-manger">Dynamic-List-Manager</a> : TypeScript-based tool for adding and deleting images, videos, notes, and to-do lists.
 </li>
 <li>
-<a href="https://www.notion.so/c918154a40a44d6bb114096955c998b9">Our League</a> : Our Leaguer is the app to manage your soccer team like a pro: organize your events, send invitations, and much more.
-</li>
-<li>
 <a href="https://github.com/cafeteria-team">Good Cafeteria</a> : Good Cafeteria helps to find local caterias quickly and easily.
 </li>
 </ul>
