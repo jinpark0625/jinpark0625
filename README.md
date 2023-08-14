@@ -14,7 +14,7 @@
 </h4>
 <ul>
    <li>
-<a href="https://github.com/jinpark0625/react_shop">React-Shop</a> : 
+<a href="https://github.com/jinpark0625/react_shop">Happy Jolly</a> : 
    An e-commerce website built with React.js, Firebase, Cloudinary, react-query, and tailwind-css as a practice project.
 </li>
 <li>
