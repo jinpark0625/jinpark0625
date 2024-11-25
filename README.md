@@ -3,11 +3,22 @@
    Hello, I’m Jin,👋🏻 
 </h4>
 <p>
-  Front-end Developer from 🇰🇷 Seoul, Korea, currently living in 🇨🇦 Toronto, Canada.
-  </p>
-  <p>
-  I love turning my ideas into reality with code.
-  </p>
+Frontend Developer with a passion for creating intuitive and beautiful user experiences.
+</p>
+<ul>
+   <li>
+      Started as a Designer, transitioned to Frontend Web Development, and now diving into React Native to build mobile apps.
+   </li>
+   <li>
+     Skilled in React, React Native, and also experienced with TypeScript, Next.js, Node.js, Firebase, and Supabase, among other tools and frameworks
+   </li>
+   <li>
+   Always eager to learn and collaborate on exciting projects!
+   </li>
+</ul>
+<p>
+   💡 Let's build something amazing together!
+</p>
 </br>
 <h4>
 💻 Side Project
