@@ -52,6 +52,7 @@ Frontend Developer with a passion for creating intuitive and beautiful user expe
   <img src="https://img.shields.io/badge/Redux-web-764ABC?style=flat&logo=redux&logoColor=764ABC"/>
   <img src="https://img.shields.io/badge/Next.js-web-000000?style=flat&logo=Next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/ReactNative-mobile-61DAFB?style=flat&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/Neutralinojs-Desktop-F89901?style=flat&logo=neutralinojs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-language-3178C6?style=flat&logo=storybook&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Storybook-ui-FF4785?style=flat&logo=storybook&logoColor=FF4785"/>
   <img src="https://img.shields.io/badge/StyledComponents-cssInJs-DB7093?style=flat&logo=styled-components&logoColor=DB7093"/>
