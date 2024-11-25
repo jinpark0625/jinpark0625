@@ -34,9 +34,6 @@ Frontend Developer with a passion for creating intuitive and beautiful user expe
    An e-commerce website built with React.js, Firebase, Cloudinary, react-query, and tailwind-css as a practice project.
 </li>
 <li>
-<a href="https://github.com/jinpark0625/dynamic-list-manger">Dynamic-List-Manager</a> : TypeScript-based tool for adding and deleting images, videos, notes, and to-do lists.
-</li>
-<li>
 <a href="https://github.com/cafeteria-team">Good Cafeteria</a> : Good Cafeteria helps to find local caterias quickly and easily.
 </li>
 </ul>
